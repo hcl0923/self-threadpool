@@ -1,0 +1,8 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(Ö™€³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‰ž˜
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+^
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(˜çàu
